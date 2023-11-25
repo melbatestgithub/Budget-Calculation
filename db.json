@@ -1,0 +1,31 @@
+{
+"music":
+[
+  {
+    "id": 4,
+    "title": "Unstoppable",
+    "artist": "Sia",
+    "duration": "3:47",
+    "size": "9Mb",
+    "background": "https://i.pinimg.com/564x/4a/4f/43/4a4f4370bb2490fc8e203a653c57ad73.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Baby",
+    "artist": "Justin Biber",
+    "duration": "3:35",
+    "size": "15Mb",
+    "background": "https://i.pinimg.com/564x/ed/cf/c2/edcfc216fe1941be6463c8d213e83564.jpg"
+  },
+  {
+    "title": "ber",
+    "artist": "smith",
+    "duration": "6:00",
+    "size": "10Mb",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnMdLKalMD4dKuT4kr5sk_m6qVhaSCo5L_CAurOa5REHo_RORN7USjGbpFWU3xplptck&usqp=CAU",
+    "id": 6
+  }
+
+]
+}
+
